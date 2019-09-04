@@ -1,0 +1,35 @@
+body
+{
+	background-image:url(./1_Joueur/Ressources/background1.jpg);
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+p
+{
+	text-align:center;
+}
+	
+a
+{	
+	color:white;
+	text-decoration:none;
+}
+
+.bouton
+{
+	display:block;
+	width:150px;
+	line-height:50px;
+	text-align:center;
+	vertical-align:middle;
+	background:url(./1_Joueur/Ressources/boutonnoir.jpg) no-repeat;
+	color:white;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.bouton:hover 
+{
+	background:url(./1_Joueur/Ressources/boutonnoir2.jpg) no-repeat;
+}
